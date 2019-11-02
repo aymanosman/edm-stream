@@ -9,6 +9,9 @@
   },
   "author": "Trevor Scott",
   "license": "MIT",
+  "engines": {
+    "node": "10.17.0"
+  },
   "dependencies": {
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
